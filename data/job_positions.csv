@@ -1,0 +1,51 @@
+job_position_id,name,description,base_salary
+1,Account Coordinator,,50000
+2,Account Representative ,,45000
+3,Accountant ,,60000
+4,Accounting Assistant ,,45000
+5,Administrative Assistant ,,40000
+6,Analyst Programmer,,78000
+7,Assistant Manager,,55000
+8,Automation Specialist ,,80000
+9,Chief Design Engineer,,120000
+10,Compensation Analyst,,76000
+11,Computer Systems Analyst ,,75000
+12,Cost Accountant,,58000
+13,Customer Service Representative,,60000
+14,Database Administrator,,75000
+15,Design Engineer,,77000
+16,Desktop Support Technician,,56000
+17,Developer ,,76000
+18,Director of Sales,,87000
+19,Driver,,65000
+20,Electrical Engineer,,81000
+21,Financial Advisor,,73000
+22,Financial Analyst,,67000
+23,Assistant Driver,,58000
+24,General Manager,,99000
+25,Help Desk Operator,,57000
+26,Help Desk Technician,,59000
+27,Human Resources Assistant,,64000
+28,Human Resources Manager,,79000
+29,Information Systems Manager,,86000
+30,Internal Auditor,,77000
+31,Legal Assistant,,69000
+32,Marketing Assistant,,71000
+33,Marketing Manager,,81000
+34,Operator,,70000
+35,Programmer ,,73000
+36,Programmer Analyst,,76000
+37,Project Manager,,79000
+38,Recruiter,,68000
+39,Recruiting Manager,,76000
+40,Safety Technician,,58000
+41,Sales Representative,,54000
+42,Senior Financial Analyst,,69000
+43,Senior Quality Engineer,,74000
+44,Senior Sales Associate,,65000
+45,Social Worker,,59000
+46,Software Engineer ,,82000
+47,Systems Administrator,,76000
+48,VP Accounting,,89000
+49,VP Marketing,,89000
+50,VP Sales,,89000

@@ -1,0 +1,8 @@
+payment_type_id,name
+1,'Cash'
+2,'Voucher'
+3,'Visa'
+4,'Mastercard'
+5,'Amex'
+6,'Diners'
+7,'Discover'

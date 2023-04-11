@@ -1,0 +1,5 @@
+discount_id,name,percentage,observations,start_date,end_date
+1,Student Discount, 0.20 ,Show student ID,1/1/2019,
+2,Elderly Discount, 0.15 ,Show ID,2/1/2018,
+3,Courtesy Discount, 1.00 ,Authorization required,1/1/2020,
+4,AmazonPrime Customers Discount, 0.25 ,Validate Prime membership,1/6/2019,

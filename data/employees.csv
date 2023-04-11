@@ -1,0 +1,201 @@
+employee_id,first_name,last_name,birth_date,hire_date,email,gender,ssn,phone1,phone2,address_line1,address_line2,zipcode_id,city_state_id,job_position_id,employee_id_reports_to,travel_role_id
+1,Agnella,Winnister,1989-10-25,2013-08-13,awinnister0@tamparailwayco.com,F,763-28-2800,(626) 5352889,,8392 Maryland Parkway,Tampa - FL 33603,10903,2066,10,127,
+2,Dorie,McCurlye,1981-12-25,2013-02-11,dmccurlye1@tamparailwayco.com,F,819-16-4471,(356) 7563997,,261 Starling Trail,Orlando - FL 32803,10600,2197,19,127,1
+3,Wren,Grogona,1986-09-06,2011-02-01,wgrogona2@tamparailwayco.com,F,736-26-1106,(305) 1588072,,349 Sunfield Way,Tampa - FL 33606,10906,2066,32,151,
+4,Ardeen,Cronchey,1973-05-27,2013-08-10,acronchey3@tamparailwayco.com,F,447-45-6715,(156) 5174438,,948 Thackeray Hill,Orlando - FL 32807,10604,2197,32,118,
+5,Alexa,Clemmey,1974-01-17,2012-10-11,aclemmey4@tamparailwayco.com,F,181-56-8973,(982) 3906872,,98848 Vermont Pass,Tampa - FL 33609,10908,2066,46,113,
+6,Robena,Krolle,1985-04-24,2010-12-24,rkrolle5@tamparailwayco.com,F,792-79-7482,(178) 6385382,,7674 Armistice Junction,Tampa - FL 33612,10911,2066,38,140,
+7,Mikael,Orman,1973-02-21,2012-09-21,morman6@tamparailwayco.com,M,323-79-1947,(816) 7010305,,31 Westport Parkway,Tampa - FL 33615,10914,2066,12,182,
+8,Griffith,Elsmor,1971-09-12,2013-01-14,gelsmor7@tamparailwayco.com,M,389-04-1685,(623) 3143179,,3434 Corscot Terrace,Orlando - FL 32822,10616,2197,31,65,
+9,Korie,Dugmore,1978-04-11,2012-01-23,kdugmore8@tamparailwayco.com,F,720-25-4150,(642) 4866817,,57 Harper Alley,Tampa - FL 33619,10918,2066,5,68,
+10,Herb,McNirlan,1978-07-25,2013-11-06,hmcnirlan9@tamparailwayco.com,M,328-66-5137,(126) 5541339,,3 Hanson Drive,Orlando - FL 32832,10625,2197,31,73,
+11,Alaric,Challis,1978-11-06,2013-02-03,achallisa@tamparailwayco.com,M,889-38-4519,(610) 3167841,,1 Jay Center,Tampa - FL 33634,10925,2066,6,83,
+12,Stevana,Mundie,1987-12-22,2012-11-29,smundieb@tamparailwayco.com,F,331-91-1921,(396) 1127260,,83 Pine View Lane,Tampa - FL 33647,10928,2066,1,34,
+13,Antin,Waszczykowski,1973-10-20,2012-12-28,awaszczykowskic@tamparailwayco.com,M,286-19-5489,(576) 8449284,,3470 Eagle Crest Road,Orlando - FL 32805,10602,2197,37,86,
+14,Denise,Schruyer,1986-05-14,2013-09-03,dschruyerd@tamparailwayco.com,F,500-55-0896,(205) 5202524,,25 South Terrace,Orlando - FL 32809,10606,2197,3,59,
+15,Mord,Belding,1970-09-09,2013-10-06,mbeldinge@tamparailwayco.com,M,249-18-7271,(820) 8709568,,340 Lindbergh Road,Tampa - FL 33604,10904,2066,41,49,
+16,Upton,Josupeit,1966-10-23,2013-02-27,ujosupeitf@tamparailwayco.com,M,140-77-5678,(370) 6311015,,73 Hoepker Circle,Tampa - FL 33607,10907,2066,2,71,
+17,Morgen,Holley,1965-12-20,2013-02-07,mholleyg@tamparailwayco.com,M,722-63-1092,(129) 6577630,,8 Grasskamp Trail,Orlando - FL 32827,10620,2197,9,26,
+18,Bryon,Rudwell,1975-06-10,2012-06-23,brudwellh@tamparailwayco.com,M,753-47-7386,(795) 8187471,,285 4th Parkway,Tampa - FL 33610,10909,2066,19,7,1
+19,Berry,Garwell,1972-04-22,2009-06-02,bgarwelli@tamparailwayco.com,F,537-35-0770,(239) 9863327,,188 Golf Course Trail,Orlando - FL 32835,10627,2197,19,166,1
+20,Sandra,Heigl,1971-08-05,2012-05-04,sheiglj@tamparailwayco.com,F,773-41-3892,(848) 8631524,(134) 3309384,789 Lien Pass,Tampa - FL 33613,10912,2066,14,175,
+21,Addi,Fullom,1983-06-23,2011-04-13,afullomk@tamparailwayco.com,F,647-27-9491,(767) 7465929,,244 Redwing Park,Tampa - FL 33616,10915,2066,23,18,1
+22,Elizabet,Harnes,1973-01-26,2011-09-29,eharnesl@tamparailwayco.com,F,344-94-4411,(439) 6260489,,01959 Norway Maple Point,Orlando - FL 32811,10608,2197,47,186,
+23,Sterling,Karpe,1974-11-06,2011-12-29,skarpem@tamparailwayco.com,M,485-42-2762,(132) 8375504,,9 Pepper Wood Hill,Orlando - FL 32832,10625,2197,36,106,
+24,Micky,Pead,1978-10-06,2013-08-24,mpeadn@tamparailwayco.com,M,138-30-8752,(620) 5397096,,9 Garrison Crossing,Tampa - FL 33602,10902,2066,17,88,
+25,Phillis,Boxen,1986-07-28,2012-02-15,pboxeno@tamparailwayco.com,F,670-45-8704,(484) 1626151,,67 Sunfield Court,Tampa - FL 33605,10905,2066,18,76,
+26,Rosalynd,Malitrott,1973-05-18,2013-07-12,rmalitrottp@tamparailwayco.com,F,210-94-5228,(802) 4418196,,7860 Old Shore Court,Tampa - FL 33611,10910,2066,23,45,1
+27,Viva,Klaesson,1973-06-30,2012-10-05,vklaessonq@tamparailwayco.com,F,373-79-5325,(800) 8971866,,05185 Bunker Hill Lane,Tampa - FL 33614,10913,2066,21,175,
+28,Emmett,Garner,1985-06-17,2013-10-16,egarnerr@tamparailwayco.com,M,412-53-8578,(934) 9708325,,34874 Canary Way,Orlando - FL 32801,10599,2197,27,138,
+29,Lauri,Norgan,1981-11-24,2012-04-19,lnorgans@tamparailwayco.com,F,514-56-7553,(532) 8914731,,3 Barnett Junction,Tampa - FL 33617,10916,2066,16,41,
+30,Ariel,Gasker,1967-08-17,2012-06-24,agaskert@tamparailwayco.com,F,469-31-8578,(631) 8414772,,99 Barby Parkway,Tampa - FL 33621,10920,2066,20,68,
+31,Shirline,Gidney,1985-07-09,2012-05-18,sgidneyu@tamparailwayco.com,F,252-60-3603,(883) 5498373,,664 Bluejay Park,Tampa - FL 33629,10924,2066,24,104,
+32,Shadow,Talloe,1969-12-06,2012-01-12,stalloev@tamparailwayco.com,M,341-19-8842,(974) 2286496,,3 Evergreen Alley,Orlando - FL 32809,10606,2197,37,17,
+33,Robbyn,Vondrach,1968-12-28,2010-08-04,rvondrachw@tamparailwayco.com,F,415-19-2356,(468) 7886523,,3 Brentwood Avenue,Orlando - FL 32814,10610,2197,3,96,
+34,Loralee,Gryglewski,1970-10-24,2011-06-04,lgryglewskix@tamparailwayco.com,F,512-65-5313,(246) 7028043,,1 Bobwhite Lane,Orlando - FL 32835,10627,2197,28,172,
+35,Kenny,Raddin,1976-08-12,2013-04-18,kraddiny@tamparailwayco.com,M,292-63-4740,(798) 1095180,,6092 Marquette Circle,Tampa - FL 33606,10906,2066,23,41,1
+36,Concordia,Yesenin,1973-08-30,2009-07-09,cyeseninz@tamparailwayco.com,F,726-65-0050,(418) 2556258,,9 Summit Point,Orlando - FL 32803,10600,2197,30,184,
+37,Rica,Meadley,1965-07-27,2012-10-24,rmeadley10@tamparailwayco.com,F,216-64-1678,(947) 3192559,,9 Union Drive,Tampa - FL 33609,10908,2066,38,172,
+38,Kenn,Tunbridge,1976-07-06,2012-07-08,ktunbridge11@tamparailwayco.com,M,621-19-0053,(618) 3207525,,97 Sunnyside Junction,Tampa - FL 33612,10911,2066,22,151,
+39,Hillie,Phelip,1972-08-30,2013-11-10,hphelip12@tamparailwayco.com,M,287-66-8924,(733) 6652713,,2 Shopko Plaza,Orlando - FL 32811,10608,2197,33,140,
+40,Stella,Cullerne,1978-03-14,2012-06-28,scullerne13@tamparailwayco.com,F,776-85-1778,(356) 3641584,,79094 Mendota Way,Tampa - FL 33619,10918,2066,23,67,1
+41,Adamo,Coghill,1972-07-03,2012-10-04,acoghill14@tamparailwayco.com,M,631-27-4700,(786) 8967798,,918 Dexter Terrace,Orlando - FL 32822,10616,2197,25,69,
+42,Thaddeus,Arntzen,1974-02-24,2012-09-17,tarntzen15@tamparailwayco.com,M,370-04-4577,(982) 4129309,,35987 Chive Junction,Tampa - FL 33634,10925,2066,44,165,
+43,Vincents,Siggers,1970-03-25,2012-04-08,vsiggers16@tamparailwayco.com,M,676-45-8851,(949) 3872067,,106 Oriole Plaza,Tampa - FL 33647,10928,2066,26,172,
+44,Nonah,Fetherstonhaugh,1972-08-08,2011-04-07,nfetherstonhaugh17@tamparailwayco.com,F,283-33-1705,(661) 5027018,,8356 Oak Valley Street,Orlando - FL 32801,10599,2197,48,25,
+45,Guenevere,Hempshall,1968-11-23,2013-08-31,ghempshall18@tamparailwayco.com,F,280-57-3284,(506) 8743549,,88 Norway Maple Avenue,Tampa - FL 33604,10904,2066,49,188,
+46,Jolyn,Lidgett,1973-01-22,2011-09-26,jlidgett19@tamparailwayco.com,F,508-87-7887,(850) 2465437,,6303 Holy Cross Drive,Tampa - FL 33607,10907,2066,23,24,1
+47,Langsdon,Turban,1975-07-07,2012-03-26,lturban1a@tamparailwayco.com,M,409-37-7526,(412) 5218678,,592 Dexter Street,Orlando - FL 32814,10610,2197,50,30,
+48,Sandie,Keech,1973-05-31,2012-10-12,skeech1b@tamparailwayco.com,F,481-23-8884,(763) 6858809,,479 Paget Terrace,Orlando - FL 32827,10620,2197,36,157,
+49,Shanna,Margery,1972-01-13,2013-09-11,smargery1c@tamparailwayco.com,F,721-55-2489,(325) 1917805,,05476 Reindahl Hill,Tampa - FL 33613,10912,2066,29,190,
+50,Elaina,Baptie,1961-05-30,2009-04-14,ebaptie1d@tamparailwayco.com,F,369-94-1873,(341) 9514592,,20957 Browning Avenue,Tampa - FL 33616,10915,2066,13,146,2
+51,Rhonda,Holdforth,1964-07-22,2011-08-11,rholdforth1e@tamparailwayco.com,F,794-66-5765,(774) 1734781,,47 Texas Pass,Tampa - FL 33620,10919,2066,32,146,
+52,Win,Camp,1966-01-13,2013-09-03,wcamp1f@tamparailwayco.com,M,546-99-5294,(485) 2342962,,621 Vahlen Road,Tampa - FL 33637,10927,2066,32,198,
+53,Avram,Goodie,1981-07-15,2012-06-08,agoodie1g@tamparailwayco.com,M,657-37-6594,(892) 8084160,,39288 Cardinal Plaza,Orlando - FL 32803,10600,2197,1,4,
+54,Daile,Cowe,1984-10-25,2011-01-21,dcowe1h@tamparailwayco.com,F,673-22-8696,(985) 4617362,(404) 7347104,96 Lien Plaza,Orlando - FL 32807,10604,2197,13,81,2
+55,Emmi,Huckerbe,1973-02-13,2010-07-12,ehuckerbe1i@tamparailwayco.com,F,286-15-8990,(188) 6065788,,3162 Moland Street,Orlando - FL 32822,10616,2197,13,5,2
+56,Merridie,Cranidge,1984-09-04,2012-08-04,mcranidge1j@tamparailwayco.com,F,599-69-6280,(190) 8548896,(989) 5127004,5 Lyons Hill,Tampa - FL 33602,10902,2066,13,106,2
+57,Charlton,Wolfers,1971-08-16,2013-03-14,cwolfers1k@tamparailwayco.com,M,321-64-5461,(781) 5134895,(509) 1545701,9763 Twin Pines Terrace,Orlando - FL 32832,10625,2197,26,199,
+58,Robin,Fawssett,1972-09-06,2012-10-21,rfawssett1l@tamparailwayco.com,M,210-87-9701,(743) 3054664,,11 Mcguire Way,Tampa - FL 33605,10905,2066,23,59,1
+59,Janina,Soro,1979-09-09,2013-03-17,jsoro1m@tamparailwayco.com,F,241-90-1179,(569) 1445361,,00 Valley Edge Lane,Tampa - FL 33614,10913,2066,13,4,2
+60,Elora,Inger,1976-03-23,2013-10-10,einger1n@tamparailwayco.com,F,685-92-6589,(415) 9642231,,48 Melby Plaza,Tampa - FL 33617,10916,2066,25,57,
+61,Ella,Essex,1975-04-27,2012-06-29,eessex1o@tamparailwayco.com,F,113-35-2364,(385) 5784581,,41 Forest Dale Street,Tampa - FL 33621,10920,2066,41,200,
+62,Ann-marie,Mabbot,1980-10-06,2012-06-13,amabbot1p@tamparailwayco.com,F,176-59-6638,(923) 6222776,,3295 Merry Parkway,Tampa - FL 33629,10924,2066,4,89,
+63,Chlo,Monnoyer,1967-12-09,2012-10-02,cmonnoyer1q@tamparailwayco.com,F,678-87-1575,(159) 7511006,,1 Petterle Center,Orlando - FL 32805,10602,2197,1,38,
+64,Jacquelynn,Scadding,1979-02-27,2012-06-24,jscadding1r@tamparailwayco.com,F,848-89-5543,(231) 2940961,,9650 Clyde Gallagher Trail,Orlando - FL 32809,10606,2197,13,143,2
+65,Rorke,Rapley,1987-04-06,2012-06-04,rrapley1s@tamparailwayco.com,M,751-15-3053,(439) 1320646,,546 Tomscot Alley,Orlando - FL 32827,10620,2197,19,74,1
+66,Jaime,Bottoner,1988-03-14,2013-12-31,jbottoner1t@tamparailwayco.com,F,273-61-4157,(793) 7811829,,33895 Cherokee Circle,Orlando - FL 32835,10627,2197,19,46,1
+67,Jamison,Bromell,1979-12-31,2013-06-14,jbromell1u@tamparailwayco.com,M,547-99-1885,(635) 1742684,,29 Merry Drive,Tampa - FL 33603,10903,2066,11,35,
+68,Fredra,Wornum,1974-12-07,2013-01-20,fwornum1v@tamparailwayco.com,F,524-29-0505,(628) 2229653,,14789 Texas Way,Tampa - FL 33606,10906,2066,25,97,
+69,Abbey,Janssens,1977-12-12,2013-11-25,ajanssens1w@tamparailwayco.com,M,556-37-4644,(633) 4132595,,3 Orin Avenue,Tampa - FL 33609,10908,2066,23,27,1
+70,Stearn,Deinert,1984-12-06,2011-05-24,sdeinert1x@tamparailwayco.com,M,586-66-6351,(187) 6389570,,88606 Parkside Parkway,Tampa - FL 33612,10911,2066,26,193,
+71,My,Gatecliff,1989-04-25,2013-06-15,mgatecliff1y@tamparailwayco.com,M,683-60-7819,(577) 6688823,,0722 Waywood Parkway,Tampa - FL 33615,10914,2066,22,189,
+72,Tamar,Hammer,1983-10-28,2011-07-06,thammer1z@tamparailwayco.com,F,346-83-0709,(873) 8517198,,761 Ridgeview Park,Orlando - FL 32807,10604,2197,35,101,
+73,Marijo,Cabrara,1982-02-13,2012-07-02,mcabrara20@tamparailwayco.com,F,286-01-6015,(117) 6860804,,6766 Dwight Alley,Tampa - FL 33619,10918,2066,13,189,2
+74,Skip,Graves,1971-03-24,2012-01-01,sgraves21@tamparailwayco.com,M,567-24-6467,(383) 1219566,,2390 Porter Way,Orlando - FL 32811,10608,2197,4,47,
+75,Iver,Chisolm,1987-11-01,2012-04-29,ichisolm22@tamparailwayco.com,M,894-62-1681,(723) 3325894,,41 Sachtjen Place,Tampa - FL 33634,10925,2066,37,148,
+76,Rickie,Eagle,1986-05-13,2011-07-26,reagle23@tamparailwayco.com,M,510-25-3336,(557) 1317798,,63 Fisk Park,Orlando - FL 32832,10625,2197,11,111,
+77,Seward,Aizic,1981-01-14,2013-07-07,saizic24@tamparailwayco.com,M,342-10-4107,(354) 3115528,(554) 4965500,2 Northridge Alley,Tampa - FL 33647,10928,2066,19,127,1
+78,Dee dee,Elcomb,1979-01-31,2009-10-19,delcomb25@tamparailwayco.com,F,497-75-0892,(412) 5271129,,965 Clemons Way,Orlando - FL 32801,10599,2197,16,113,
+79,Rubetta,Kless,1982-03-11,2012-12-18,rkless26@tamparailwayco.com,F,721-61-2681,(394) 2179742,,3924 Summit Parkway,Tampa - FL 33604,10904,2066,35,199,
+80,Lonee,Dominec,1970-12-20,2012-10-19,ldominec27@tamparailwayco.com,F,469-19-0463,(514) 5551246,,74 Toban Parkway,Tampa - FL 33607,10907,2066,36,193,
+81,Stephenie,Tincombe,1963-10-01,2012-10-09,stincombe28@tamparailwayco.com,F,804-65-1844,(656) 3842308,,865 Bashford Trail,Orlando - FL 32809,10606,2197,23,77,1
+82,Saloma,Abercromby,1966-07-14,2011-04-28,sabercromby29@tamparailwayco.com,F,552-98-3227,(757) 7890869,,2 Moose Center,Tampa - FL 33610,10909,2066,23,179,1
+83,North,Ianiello,1982-02-25,2010-01-11,nianiello2a@tamparailwayco.com,M,241-54-2236,(601) 8712881,,02 Oak Avenue,Orlando - FL 32814,10610,2197,40,45,
+84,Aloysius,Sacco,1964-01-07,2012-03-05,asacco2b@tamparailwayco.com,M,679-56-5620,(148) 3458614,,4 Sutherland Trail,Tampa - FL 33613,10912,2066,29,83,
+85,Sheila,Sproat,1985-06-10,2012-10-10,ssproat2c@tamparailwayco.com,F,339-41-0528,(241) 4636860,(733) 1803629,8388 Moose Hill,Tampa - FL 33616,10915,2066,42,90,
+86,Lissa,Tesimon,1969-05-19,2011-04-16,ltesimon2d@tamparailwayco.com,F,354-04-2654,(113) 1098215,,0 Merchant Parkway,Tampa - FL 33620,10919,2066,13,74,2
+87,Jackie,Avraham,1973-04-03,2011-02-28,javraham2e@tamparailwayco.com,F,526-04-9509,(811) 4192268,,77036 Pierstorff Hill,Orlando - FL 32835,10627,2197,23,58,1
+88,Cliff,Leaver,1963-02-23,2011-02-03,cleaver2f@tamparailwayco.com,M,507-74-8360,(913) 2632984,,83957 Portage Road,Tampa - FL 33637,10927,2066,45,92,
+89,Dominique,Durno,1972-04-21,2013-06-05,ddurno2g@tamparailwayco.com,M,281-88-9928,(140) 8331622,,7366 Ohio Street,Orlando - FL 32803,10600,2197,29,190,
+90,Marilin,Blondel,1976-11-12,2011-04-18,mblondel2h@tamparailwayco.com,F,626-47-2297,(183) 4144072,(558) 4851784,30 Chinook Plaza,Orlando - FL 32811,10608,2197,19,25,1
+91,Clem,Spring,1961-05-28,2010-11-22,cspring2i@tamparailwayco.com,F,467-28-5793,(390) 2564928,,86 Morning Place,Tampa - FL 33602,10902,2066,8,189,
+92,Donny,Rothert,1974-02-14,2013-10-28,drothert2j@tamparailwayco.com,M,758-41-3772,(783) 9251995,,209 Talmadge Road,Orlando - FL 32822,10616,2197,13,107,2
+93,Brigida,Dunbobin,1984-04-19,2009-03-20,bdunbobin2k@tamparailwayco.com,F,577-51-2666,(581) 3900014,,26103 Kipling Terrace,Tampa - FL 33611,10910,2066,13,179,2
+94,Yehudi,Barrable,1966-01-05,2010-02-14,ybarrable2l@tamparailwayco.com,M,634-51-1337,(585) 3667581,,39 Maywood Street,Tampa - FL 33614,10913,2066,35,200,
+95,Orlan,Moen,1978-11-21,2012-12-05,omoen2m@tamparailwayco.com,M,823-29-6682,(317) 5039619,(463) 1961962,79640 Meadow Ridge Terrace,Tampa - FL 33617,10916,2066,13,175,2
+96,Grantham,Arden,1987-06-12,2012-12-14,garden2n@tamparailwayco.com,M,329-90-3519,(226) 1163576,,164 Transport Parkway,Tampa - FL 33621,10920,2066,35,26,
+97,Germayne,Dumper,1964-05-01,2012-06-03,gdumper2o@tamparailwayco.com,M,786-68-5073,(780) 8614571,,9 Vidon Way,Tampa - FL 33629,10924,2066,13,192,2
+98,Colver,Accum,1983-04-18,2012-10-13,caccum2p@tamparailwayco.com,M,274-49-7575,(896) 3600149,,7414 Farmco Pass,Orlando - FL 32805,10602,2197,13,134,2
+99,Danya,Guilford,1988-05-13,2013-06-13,dguilford2q@tamparailwayco.com,F,163-39-7082,(367) 3259407,,0 Pankratz Crossing,Orlando - FL 32814,10610,2197,7,84,
+100,Burl,Deares,1978-07-24,2012-03-14,bdeares2r@tamparailwayco.com,M,395-17-9390,(434) 8764892,,0 Main Alley,Orlando - FL 32827,10620,2197,25,176,
+101,Julina,Dinse,1967-03-04,2013-12-01,jdinse2s@tamparailwayco.com,F,599-17-5005,(328) 5646756,,0581 Cody Alley,Tampa - FL 33603,10903,2066,5,48,
+102,Binnie,Muscott,1971-01-01,2012-06-17,bmuscott2t@tamparailwayco.com,F,827-11-3675,(440) 3190851,,33314 Bunting Parkway,Tampa - FL 33606,10906,2066,22,87,
+103,Tallie,Gore,1984-11-30,2013-09-02,tgore2u@tamparailwayco.com,M,859-85-5609,(119) 1118594,,873 Westerfield Way,Tampa - FL 33609,10908,2066,13,197,2
+104,Shaylah,Hamly,1970-05-02,2011-10-02,shamly2v@tamparailwayco.com,F,721-08-9127,(614) 7700086,,9025 Lien Drive,Tampa - FL 33612,10911,2066,13,141,2
+105,Gonzalo,Harmeston,1965-01-14,2013-09-13,gharmeston2w@tamparailwayco.com,M,338-45-9874,(343) 1369573,,4 Montana Park,Orlando - FL 32803,10600,2197,13,147,2
+106,Bondon,Brandon,1980-02-18,2012-05-29,bbrandon2x@tamparailwayco.com,M,128-96-5533,(678) 1345850,,4310 Arizona Avenue,Tampa - FL 33619,10918,2066,13,145,2
+107,Ursulina,Harefoot,1972-10-03,2012-11-13,uharefoot2y@tamparailwayco.com,F,529-33-2634,(201) 5634309,,4 Anniversary Avenue,Orlando - FL 32807,10604,2197,23,27,1
+108,Silvano,Dean,1968-07-23,2013-05-31,sdean2z@tamparailwayco.com,M,770-08-5286,(893) 5249415,,2496 Morning Parkway,Tampa - FL 33634,10925,2066,31,105,
+109,Alyosha,De Marchi,1983-05-21,2012-02-06,ademarchi30@tamparailwayco.com,M,638-46-0588,(443) 6742040,,0 Dwight Alley,Orlando - FL 32822,10616,2197,13,115,2
+110,Lenore,Dillistone,1985-10-06,2012-05-14,ldillistone31@tamparailwayco.com,F,307-14-0139,(969) 4746953,(846) 9091735,06 Duke Crossing,Tampa - FL 33604,10904,2066,45,121,
+111,Alyss,Pynn,1967-10-21,2012-12-17,apynn32@tamparailwayco.com,F,593-62-5594,(579) 7111140,,1 Northwestern Alley,Orlando - FL 32805,10602,2197,1,166,
+112,Abra,Osgodby,1970-02-19,2013-09-21,aosgodby33@tamparailwayco.com,F,481-17-2898,(680) 7556283,,0 Starling Street,Orlando - FL 32809,10606,2197,13,183,2
+113,Gisella,Moyce,1985-11-08,2010-04-08,gmoyce34@tamparailwayco.com,F,160-64-8732,(333) 9925759,,2 Del Sol Avenue,Tampa - FL 33616,10915,2066,4,45,
+114,Stephi,Shirley,1965-07-22,2013-02-15,sshirley35@tamparailwayco.com,F,500-93-3918,(446) 5334834,,848 Farwell Lane,Tampa - FL 33620,10919,2066,5,56,
+115,Corny,Buckbee,1984-03-11,2010-04-02,cbuckbee36@tamparailwayco.com,M,193-72-3676,(264) 3006236,,95371 Northfield Junction,Orlando - FL 32827,10620,2197,47,183,
+116,Sibelle,Knevet,1977-11-16,2012-05-23,sknevet37@tamparailwayco.com,F,371-56-0353,(440) 9734681,,6 Cascade Pass,Orlando - FL 32835,10627,2197,13,117,2
+117,Ailey,Wroth,1977-12-03,2012-05-22,awroth38@tamparailwayco.com,F,771-65-2384,(974) 6217633,(217) 5249333,010 Sunfield Street,Tampa - FL 33637,10927,2066,38,66,
+118,Bettina,Cardow,1975-01-13,2013-01-19,bcardow39@tamparailwayco.com,F,659-72-9395,(260) 1800466,,52 Hazelcrest Drive,Orlando - FL 32807,10604,2197,8,160,
+119,Giacomo,Devericks,1981-11-15,2012-11-17,gdevericks3a@tamparailwayco.com,M,281-53-9059,(126) 4681836,,101 Raven Way,Tampa - FL 33602,10902,2066,13,112,2
+120,Locke,Bresson,1965-06-08,2010-04-18,lbresson3b@tamparailwayco.com,M,718-93-2789,(652) 4442472,,1129 Knutson Hill,Orlando - FL 32811,10608,2197,19,169,1
+121,Dela,Brydson,1977-06-13,2011-05-12,dbrydson3c@tamparailwayco.com,F,720-67-2538,(634) 7464647,,7253 Fieldstone Park,Tampa - FL 33605,10905,2066,13,61,2
+122,Adara,Matson,1973-03-28,2012-07-26,amatson3d@tamparailwayco.com,F,455-19-7735,(242) 4160061,(540) 8056613,2 Vahlen Street,Tampa - FL 33611,10910,2066,40,179,
+123,Valle,Abercrombie,1969-10-18,2013-06-26,vabercrombie3e@tamparailwayco.com,M,823-13-4506,(398) 3078126,(277) 7554145,5 North Center,Orlando - FL 32832,10625,2197,23,137,1
+124,Doy,Muslim,1971-12-10,2013-10-30,dmuslim3f@tamparailwayco.com,M,252-94-2396,(711) 5802297,,9 Pierstorff Terrace,Tampa - FL 33614,10913,2066,23,34,1
+125,Starlene,Rosson,1960-05-17,2009-08-20,srosson3g@tamparailwayco.com,F,317-67-9577,(306) 5950479,,6729 Tennessee Point,Tampa - FL 33617,10916,2066,1,113,
+126,Hermon,Hailwood,1985-10-11,2012-02-07,hhailwood3h@tamparailwayco.com,M,234-95-1125,(493) 4923488,(505) 6974089,44051 Stoughton Avenue,Tampa - FL 33629,10924,2066,13,70,2
+127,Gabrila,Baynes,1979-09-21,2013-10-09,gbaynes3i@tamparailwayco.com,F,304-15-6186,(452) 9969543,,33 Utah Hill,Orlando - FL 32801,10599,2197,7,133,
+128,Kial,Broddle,1976-11-10,2010-07-20,kbroddle3j@tamparailwayco.com,F,833-65-4970,(334) 4568067,,573 Mandrake Plaza,Orlando - FL 32814,10610,2197,8,106,
+129,Den,Piatek,1966-10-22,2010-12-11,dpiatek3k@tamparailwayco.com,M,527-62-9417,(896) 9180129,,5 Superior Alley,Tampa - FL 33603,10903,2066,23,101,1
+130,Daren,Elleyne,1985-10-04,2012-04-02,delleyne3l@tamparailwayco.com,M,293-62-3363,(761) 4233928,,1327 Rowland Crossing,Orlando - FL 32835,10627,2197,34,85,
+131,Alick,Whitwam,1970-09-10,2012-12-21,awhitwam3m@tamparailwayco.com,M,702-34-7360,(381) 4945390,,36 Brickson Park Junction,Tampa - FL 33609,10908,2066,11,144,
+132,Lindy,Sinclair,1981-12-20,2009-08-26,lsinclair3n@tamparailwayco.com,F,835-03-9939,(785) 9595140,,525 Sommers Junction,Tampa - FL 33612,10911,2066,46,162,
+133,Allin,Bigley,1981-10-21,2013-01-11,abigley3o@tamparailwayco.com,M,787-67-4525,(916) 8934742,,784 Dovetail Center,Tampa - FL 33615,10914,2066,8,163,
+134,Gisela,McWilliams,1969-03-08,2011-10-28,gmcwilliams3p@tamparailwayco.com,F,588-86-7724,(461) 4897394,,58427 Linden Plaza,Tampa - FL 33619,10918,2066,29,172,
+135,Elnora,Boothman,1984-07-16,2010-12-21,eboothman3q@tamparailwayco.com,F,665-30-7191,(680) 9269458,,9716 Macpherson Junction,Orlando - FL 32803,10600,2197,13,99,2
+136,Zachariah,Sprouls,1984-03-05,2011-11-01,zsprouls3r@tamparailwayco.com,M,197-37-2970,(936) 9605599,,96 Rieder Park,Tampa - FL 33634,10925,2066,13,166,2
+137,Waylen,Oakeby,1980-01-14,2012-08-03,woakeby3s@tamparailwayco.com,M,222-60-7405,(475) 6440464,,267 Northfield Plaza,Orlando - FL 32811,10608,2197,13,17,2
+138,Elysee,Dallemore,1971-01-29,2012-07-24,edallemore3t@tamparailwayco.com,F,447-25-8784,(340) 9591035,,01340 Dwight Alley,Tampa - FL 33647,10928,2066,16,158,
+139,Shaine,Eagers,1984-02-28,2010-09-10,seagers3u@tamparailwayco.com,F,669-07-2571,(979) 6992028,,84833 Tony Plaza,Orlando - FL 32822,10616,2197,19,113,1
+140,Jerry,Ellis,1985-02-15,2012-03-14,jellis3v@tamparailwayco.com,F,461-91-6307,(542) 3719921,,0 Forest Dale Park,Tampa - FL 33607,10907,2066,20,74,
+141,Janette,Gofforth,1970-05-24,2013-08-02,jgofforth3w@tamparailwayco.com,F,242-69-5725,(674) 5549822,,16 Village Green Terrace,Orlando - FL 32801,10599,2197,13,43,2
+142,Lynnett,Gaskin,1983-05-17,2011-01-24,lgaskin3x@tamparailwayco.com,F,335-67-0851,(785) 5592292,,604 Mcguire Junction,Tampa - FL 33610,10909,2066,3,51,
+143,Fransisco,Berthel,1987-06-03,2012-07-13,fberthel3y@tamparailwayco.com,M,410-31-0323,(605) 7461111,,0 Hauk Lane,Tampa - FL 33613,10912,2066,15,149,
+144,Karilynn,Brolechan,1968-07-14,2012-11-08,kbrolechan3z@tamparailwayco.com,F,123-50-2754,(823) 7249891,(371) 1435555,0468 Westend Center,Tampa - FL 33616,10915,2066,22,176,
+145,Jaime,Drinkwater,1973-09-20,2011-11-07,jdrinkwater40@tamparailwayco.com,M,775-31-4019,(903) 7762718,(483) 1635225,81863 International Trail,Tampa - FL 33620,10919,2066,46,106,
+146,Emmery,Boseley,1976-09-13,2012-05-31,eboseley41@tamparailwayco.com,M,784-20-6726,(691) 3027496,(760) 7756196,9084 Debs Avenue,Orlando - FL 32814,10610,2197,8,85,
+147,Neall,M'Quharge,1983-11-24,2010-09-27,nmquharge42@tamparailwayco.com,M,306-24-1699,(526) 9834239,,99 Reinke Way,Orlando - FL 32827,10620,2197,13,71,2
+148,Sibyl,Uman,1986-03-10,2012-08-01,suman43@tamparailwayco.com,F,618-28-3985,(270) 7312004,,938 Bay Court,Tampa - FL 33637,10927,2066,13,22,2
+149,Giorgia,Constanza,1975-05-03,2012-01-01,gconstanza44@tamparailwayco.com,F,729-01-4029,(826) 5356790,,966 Loomis Crossing,Orlando - FL 32803,10600,2197,13,103,2
+150,Stavros,Alexandersen,1972-12-17,2013-11-16,salexandersen45@tamparailwayco.com,M,454-50-1099,(329) 5638278,,04 Everett Terrace,Tampa - FL 33602,10902,2066,13,177,2
+151,Flossy,Sywell,1984-11-19,2011-06-13,fsywell46@tamparailwayco.com,F,291-75-8055,(433) 7112484,,60 Truax Way,Orlando - FL 32807,10604,2197,19,12,1
+152,Job,Pawson,1970-07-27,2012-05-20,jpawson47@tamparailwayco.com,M,822-25-8601,(448) 5633107,,296 Debra Road,Tampa - FL 33605,10905,2066,1,138,
+153,Arv,Baroc,1976-08-28,2012-07-02,abaroc48@tamparailwayco.com,M,777-74-9442,(427) 3669126,,40385 Claremont Terrace,Tampa - FL 33611,10910,2066,1,101,
+154,Carlie,Reyne,1973-12-25,2013-02-03,creyne49@tamparailwayco.com,F,773-01-1182,(354) 4602374,,4234 Springview Terrace,Orlando - FL 32822,10616,2197,13,23,2
+155,Cecil,Gellibrand,1970-10-16,2012-10-16,cgellibrand4a@tamparailwayco.com,F,535-47-2200,(675) 7870485,,3 Talmadge Road,Tampa - FL 33614,10913,2066,19,96,1
+156,Shannon,Prosh,1973-07-06,2012-05-03,sprosh4b@tamparailwayco.com,F,785-82-0652,(957) 5928546,,77662 Pennsylvania Point,Tampa - FL 33617,10916,2066,39,26,
+157,Thorsten,Chipping,1966-03-28,2010-04-11,tchipping4c@tamparailwayco.com,M,664-32-1034,(420) 1141993,(125) 9704871,834 Kenwood Circle,Tampa - FL 33621,10920,2066,10,189,
+158,Flinn,Duny,1986-10-21,2011-11-17,fduny4d@tamparailwayco.com,M,822-36-1653,(930) 4977724,,1 Carey Hill,Tampa - FL 33629,10924,2066,43,42,
+159,Rabi,Glendzer,1978-05-26,2013-01-06,rglendzer4e@tamparailwayco.com,M,216-27-8411,(318) 6243718,(868) 3946905,61456 Manley Pass,Orlando - FL 32805,10602,2197,3,150,
+160,Ethelda,Halfhide,1983-07-28,2010-08-08,ehalfhide4f@tamparailwayco.com,F,488-55-8899,(824) 6498762,,29034 Washington Trail,Orlando - FL 32809,10606,2197,8,27,
+161,Gibb,Scouse,1971-03-02,2013-08-24,gscouse4g@tamparailwayco.com,M,482-48-9152,(403) 8986704,,05 Golf View Hill,Orlando - FL 32827,10620,2197,36,160,
+162,Ric,Foltin,1962-12-04,2010-11-22,rfoltin4h@tamparailwayco.com,M,176-95-3474,(741) 8407348,,420 Oakridge Terrace,Tampa - FL 33606,10906,2066,37,170,
+163,Cliff,Thomassin,1971-12-16,2011-09-16,cthomassin4i@tamparailwayco.com,M,320-14-8406,(525) 4515659,,8904 American Ash Avenue,Orlando - FL 32835,10627,2197,13,137,2
+164,Dasha,Rosenblad,1977-09-28,2011-02-11,drosenblad4j@tamparailwayco.com,F,491-61-7848,(301) 3798385,,38 4th Parkway,Tampa - FL 33609,10908,2066,27,35,
+165,Berthe,Barratt,1981-08-31,2012-06-15,bbarratt4k@tamparailwayco.com,F,426-16-4354,(294) 4568620,(782) 8171509,4865 Debs Alley,Tampa - FL 33615,10914,2066,5,167,
+166,Ric,Compson,1973-02-05,2011-07-27,rcompson4l@tamparailwayco.com,M,587-18-6678,(773) 6945627,,0 Maple Wood Center,Tampa - FL 33634,10925,2066,13,170,2
+167,Jessica,Skellion,1986-10-15,2012-01-29,jskellion4m@tamparailwayco.com,F,239-48-9410,(156) 8098241,,337 Menomonie Drive,Orlando - FL 32807,10604,2197,5,114,
+168,Waylen,Koene,1976-06-06,2012-12-14,wkoene4n@tamparailwayco.com,M,147-06-2945,(720) 8493795,,98 Jay Way,Tampa - FL 33647,10928,2066,35,110,
+169,Emelyne,MacSkeagan,1981-08-30,2010-08-29,emacskeagan4o@tamparailwayco.com,F,821-50-5399,(395) 9134497,,94 Anthes Lane,Orlando - FL 32811,10608,2197,8,89,
+170,Kilian,Cardenas,1968-04-17,2013-04-27,kcardenas4p@tamparailwayco.com,M,258-44-9912,(482) 5432618,(421) 4403395,93779 Debra Point,Tampa - FL 33604,10904,2066,13,139,2
+171,Sophia,Lorand,1972-05-31,2013-10-01,slorand4q@tamparailwayco.com,F,523-75-4868,(683) 5470881,(996) 3090423,6783 Quincy Plaza,Tampa - FL 33610,10909,2066,7,89,
+172,Yoko,Mountjoy,1980-01-13,2013-09-07,ymountjoy4r@tamparailwayco.com,F,776-64-4062,(385) 5868875,,510 Monica Hill,Orlando - FL 32801,10599,2197,19,45,1
+173,Joey,Woodhead,1986-02-08,2013-09-21,jwoodhead4s@tamparailwayco.com,M,894-81-5002,(430) 5580682,,088 School Parkway,Tampa - FL 33613,10912,2066,43,50,
+174,Shermy,Greatrex,1961-03-12,2010-01-24,sgreatrex4t@tamparailwayco.com,M,344-55-8827,(391) 2304196,,4912 International Avenue,Tampa - FL 33620,10919,2066,13,78,2
+175,Dodi,Meddick,1980-06-04,2009-11-16,dmeddick4u@tamparailwayco.com,F,774-10-6295,(895) 6701915,,09765 Warbler Junction,Orlando - FL 32809,10606,2197,13,5,2
+176,Ira,Firle,1974-09-30,2013-11-01,ifirle4v@tamparailwayco.com,M,282-02-8998,(776) 1146749,,66151 Walton Point,Orlando - FL 32814,10610,2197,19,62,1
+177,Legra,Ellings,1974-02-15,2012-10-12,lellings4w@tamparailwayco.com,F,359-75-9506,(510) 7470115,,200 Park Meadow Parkway,Tampa - FL 33637,10927,2066,23,51,1
+178,Elsi,Godwyn,1973-10-31,2013-03-05,egodwyn4x@tamparailwayco.com,F,810-57-7212,(874) 8160191,,1 Continental Parkway,Orlando - FL 32835,10627,2197,13,55,2
+179,Alisha,Youens,1985-12-09,2012-09-29,ayouens4y@tamparailwayco.com,F,729-22-3424,(541) 3177734,,19274 Lighthouse Bay Point,Tampa - FL 33602,10902,2066,13,144,2
+180,Mikey,Pears,1967-02-22,2010-04-26,mpears4z@tamparailwayco.com,M,710-42-8220,(202) 1991420,,67 Kensington Way,Orlando - FL 32803,10600,2197,16,69,
+181,Ellery,Mold,1975-10-09,2011-07-21,emold50@tamparailwayco.com,M,533-21-6493,(736) 8637266,,477 Loeprich Circle,Tampa - FL 33605,10905,2066,35,113,
+182,Raoul,Reye,1988-12-26,2012-11-29,rreye51@tamparailwayco.com,M,144-44-3354,(953) 9632590,(942) 1470964,1 Riverside Court,Tampa - FL 33611,10910,2066,27,49,
+183,Willie,Robelet,1987-08-21,2012-07-21,wrobelet52@tamparailwayco.com,F,622-51-6041,(331) 3926115,,675 Welch Way,Orlando - FL 32811,10608,2197,34,43,
+184,Noami,Linskey,1968-09-28,2013-01-06,nlinskey53@tamparailwayco.com,F,375-89-8016,(776) 2903302,,062 Del Mar Court,Tampa - FL 33614,10913,2066,13,73,2
+185,Idaline,Woan,1969-09-23,2013-10-25,iwoan54@tamparailwayco.com,F,831-11-4869,(501) 1542328,,1477 Florence Place,Tampa - FL 33617,10916,2066,40,20,
+186,Nathalie,Marner,1963-06-21,2010-01-05,nmarner55@tamparailwayco.com,F,141-69-7904,(284) 6728006,(337) 4839243,2181 Namekagon Crossing,Tampa - FL 33629,10924,2066,10,30,
+187,Jenna,Sabate,1983-02-21,2011-04-27,jsabate56@tamparailwayco.com,F,307-53-4338,(129) 3730519,,96739 Veith Trail,Orlando - FL 32801,10599,2197,13,28,2
+188,Kin,Blankett,1966-08-02,2012-01-29,kblankett57@tamparailwayco.com,M,186-49-4467,(578) 6366175,(924) 7205276,6 American Ash Court,Orlando - FL 32805,10602,2197,27,4,
+189,Kizzie,Barthel,1984-08-04,2012-04-05,kbarthel58@tamparailwayco.com,F,611-26-9660,(343) 8670385,,7548 Ridgeview Road,Tampa - FL 33603,10903,2066,13,137,2
+190,Leonid,Kenningham,1986-12-24,2013-01-20,lkenningham59@tamparailwayco.com,M,749-06-4871,(335) 9893991,,48 Ramsey Park,Orlando - FL 32814,10610,2197,13,13,2
+191,Aubry,Ventham,1985-08-09,2012-01-29,aventham5a@tamparailwayco.com,F,875-05-4739,(319) 1115458,,02 Truax Terrace,Tampa - FL 33606,10906,2066,19,95,1
+192,Thadeus,Few,1970-04-23,2013-06-28,tfew5b@tamparailwayco.com,M,881-04-8398,(982) 7498009,,730 Oak Terrace,Orlando - FL 32827,10620,2197,36,30,
+193,Devlen,Jaffa,1965-07-05,2010-09-13,djaffa5c@tamparailwayco.com,M,507-48-8311,(962) 9973440,(255) 4321955,56 Birchwood Way,Tampa - FL 33609,10908,2066,40,113,
+194,Bridgette,Purchon,1964-08-01,2011-07-29,bpurchon5d@tamparailwayco.com,F,602-14-7551,(269) 9171547,,10 Fremont Court,Tampa - FL 33612,10911,2066,13,147,2
+195,Nichole,Haug,1980-10-21,2012-10-27,nhaug5e@tamparailwayco.com,F,119-29-9659,(675) 1722132,,718 Sundown Hill,Tampa - FL 33615,10914,2066,13,70,2
+196,Elita,Jannequin,1985-04-13,2012-03-21,ejannequin5f@tamparailwayco.com,F,716-30-8366,(557) 9283291,,3 West Trail,Tampa - FL 33619,10918,2066,20,186,
+197,Harbert,Nannoni,1977-06-21,2012-04-25,hnannoni5g@tamparailwayco.com,M,724-61-5630,(530) 7135084,,184 Browning Alley,Tampa - FL 33634,10925,2066,26,96,
+198,Wittie,Mingaye,1982-10-27,2011-06-01,wmingaye5h@tamparailwayco.com,M,422-43-8255,(950) 5557918,,1074 8th Junction,Orlando - FL 32803,10600,2197,40,140,
+199,Banky,Ewart,1979-05-14,2011-06-02,bewart5i@tamparailwayco.com,M,410-64-2738,(872) 7401475,,667 Monterey Plaza,Tampa - FL 33647,10928,2066,19,59,1
+200,Cristobal,Lodin,1986-01-01,2013-10-12,clodin5j@tamparailwayco.com,M,171-58-4122,(400) 6143910,,55704 Porter Road,Orlando - FL 32807,10604,2197,15,100,

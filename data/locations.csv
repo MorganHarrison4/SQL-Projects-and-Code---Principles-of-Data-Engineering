@@ -1,0 +1,8 @@
+location_id,name,location_type_id,address_line1,address_line2,zipcode_id,city_state_id,location_x,location_y
+1,Orlando Main Station,2,1400 Sligh Blvd,Orlando FL 32806,10603,2197,28.526235,-81.381630
+2,Sales Kiosk 001,1,1400 Sligh Blvd,Orlando FL 32806,10603,2197,28.526235,-81.381630
+3,Tampa FL Union Station,2,601 N Nebraska Ave,Tampa FL 33602,10902,2066,27.952865, -82.450215
+4,Sales Kiosk 002,1,601 N Nebraska Ave,Tampa FL 33602,10902,2066,27.952865, -82.450215
+5,Web site,4,,,,,,
+6,iOS App,5,,,,,,
+7,Android App,6,,,,,,
