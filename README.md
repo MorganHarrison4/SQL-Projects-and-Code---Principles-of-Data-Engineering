@@ -10,4 +10,4 @@ of attributes, primary keys, foreign keys, independencies, as well as an appropr
 Project 2.2 includes multiple files found in the ‘data’ file in the repository. We had to upload all of these .SQL files and CSV files. From 
 this, we were tasked with solving the problems given to us by designing our own queries to retrieve the information requested. 
 
-Project 2.3: The guidelines for the final part of this project is uploaded to the repository, however, my team and I are still completing the final work. 
+Project 2.3: The guidelines for the final part of this project is uploaded to the repository, the final version is now complete and I am happy to provide it if anyone is interested. 
